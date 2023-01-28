@@ -1,0 +1,279 @@
+<mjml>
+  <mj-head>
+    <mj-breakpoint width="400px" />
+    <mj-title>Father’s day is coming soon</mj-title>
+    <mj-style>
+      .top-section-btn:hover { background: #fff !important; color: #000
+      !important; } @media only screen and (min-width: 400px) { .treat-yourself
+      { font-size: 32px; line-height: 34px; } .treat-yourself-img { width: 100%
+      !important; } .treat-yourself-title {font-size: 20px !important;
+      line-height: 145% !important; } .treat-yourself-p {font-size: 16px
+      !important; line-height: 145% !important; margin: 8px 0 10px 0; }
+      .treat-yourself-btn { font-size: 14px; padding-top: 15px !important;} }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .top-section-btn { color: #ffffff; text-decoration: none; border: 2px
+      solid black; line-height: 20px; background: #000; font-size: 17px;
+      padding: 1em 3em; margin-top: 20px }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-hero
+      mode="fixed-height"
+      height="625px"
+      background-width="600px"
+      background-height="625px"
+      background-url="https://appboy-images.com/appboy/communication/assets/image_assets/images/5ee12fcd282745552f402a8d/original.jpg?1591816141"
+      padding-top="15px"
+    >
+      <mj-image
+        width="185px"
+        height="auto"
+        href="https://www.forhims.com/skin-care?utm_source=braze&utm_medium=email&utm_campaign=hims_holiday_FathersDay_any_any_MKTG_061120"
+        src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5ee12fd2f9fd856fd2f9c543/original.png?1591816146"
+        alt="hims bottle"
+      />
+      <mj-text align="center">
+        <h1
+          style="font-size: 24px; line-height: 110%; width: 80%; margin: 0 auto"
+        >
+          bring the adventure home
+        </h1>
+        <p
+          style="
+            font-size: 15px;
+            line-height: 140%;
+            width: 85%;
+            margin: 10px auto 0 auto;
+          "
+        >
+          This year, give dad something special with Hims Small Batch Scent.
+          Using top-notch ingredients like orris, an iris rhizome that cures for
+          5 to 6 years, we made a limited run—you don’t have to leave home to
+          get that whiff of salty sea air.
+          <strong style="display: block; font-size: 15px; line-height: 140%"
+            >Don’t miss out and get $20 off your purchase</strong
+          >
+        </p>
+        <p style="display: flex; justify-content: center">
+          <a
+            class="top-section-btn"
+            href="https://www.forhims.com/skin-care?utm_source=braze&utm_medium=email&utm_campaign=hims_holiday_FathersDay_any_any_MKTG_061120"
+          >
+            shop now</a
+          >
+        </p>
+      </mj-text>
+    </mj-hero>
+    <mj-section padding="60px 0 20px 0" background-color="#DFD0D0">
+      <mj-column>
+        <mj-text align="center">
+          <h2
+            class="treat-yourself"
+            style="font-weight: bold; line-height: 34px"
+          >
+            treat yourself, too
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section
+      padding-top="0"
+      css-class="treat-yourself-section"
+      background-color="#DFD0D0"
+    >
+      <mj-group>
+        <mj-column width="45%">
+          <mj-image
+            href="https://www.forhims.com/skin-care/anti-aging?utm_source=braze&utm_medium=email&utm_campaign=hims_holiday_FathersDay_any_any_MKTG_061120"
+            src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5ee12fd54939bf03c8f6bb63/original.png?1591816149"
+            alt="hims bottle"
+            width="205px"
+          />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text>
+            <h3
+              class="treat-yourself-title"
+              style="font-size: 15px; line-height: 140%; margin: 0"
+            >
+              anti-aging cream
+            </h3>
+            <p
+              class="treat-yourself-p"
+              style="font-size: 14px; line-height: 140%"
+            >
+              Don't forget to treat yourself this year - the anti-aging formula
+              can help renew and restore a youthful glow. Consult with a
+              healthcare provider online to see if it's right for you.
+            </p>
+            <a
+              class="treat-yourself-btn"
+              href="https://www.forhims.com/skin-care/anti-aging?utm_source=braze&utm_medium=email&utm_campaign=hims_holiday_FathersDay_any_any_MKTG_061120"
+              style="
+                color: #000;
+                text-decoration: none;
+                border-bottom: 2px solid #000;
+                padding-bottom: 1px;
+                letter-spacing: 2px;
+                font-weight: 500;
+              "
+              >learn more</a
+            >
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+
+    <mj-section css-class="treat-yourself-section" background-color="#DFD0D0">
+      <mj-group>
+        <mj-column width="45%">
+          <mj-image
+            href="https://www.forhims.com/skin-care/anti-aging?utm_source=braze&utm_medium=email&utm_campaign=hims_holiday_FathersDay_any_any_MKTG_061120"
+            src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5edaa4b2f9fd85234fb1b6dd/original.png?1591387314"
+            alt="hims bottle"
+            width="205px"
+          />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text>
+            <h3
+              class="treat-yourself-title"
+              style="font-size: 15px; line-height: 140%; margin: 0"
+            >
+              finasteride
+            </h3>
+
+            <p
+              class="treat-yourself-p"
+              style="font-size: 14px; line-height: 140%"
+            >
+              Looking to regrow your luscious locks? Finasteride has been shown
+              to help regrow hair in the majority of men who take it.
+            </p>
+            <a
+              class="treat-yourself-btn"
+              href="https://www.forhims.com/hair-loss/finasteride?utm_source=braze&utm_medium=email&utm_campaign=hims_holiday_FathersDay_any_any_MKTG_061120"
+              style="
+                color: #000;
+                text-decoration: none;
+                border-bottom: 2px solid #000;
+                padding-bottom: 1px;
+                letter-spacing: 2px;
+                font-weight: 500;
+              "
+              >learn more</a
+            >
+          </mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section css-class="treat-yourself-section" background-color="#DFD0D0">
+      <mj-column>
+        <mj-text align="center">
+          <p
+            style="
+              color: #1f1f1f;
+              font-size: 10px;
+              width: 90%;
+              margin: 0 auto;
+              line-height: 130%;
+              padding-top: 40px;
+              font-weight: 500;
+            "
+          >
+            Prescription products require an online consultation with a
+            physician who will determine if a prescription is appropriate.
+            Restrictions apply. Sertraline is not FDA-approved to treat
+            premature ejaculation. see website for full details and important
+            safety information.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="footer-section" background-color="#000">
+      <mj-column>
+        <mj-text align="center" color="#fff">
+          <p
+            style="
+              font-size: 24px;
+              line-height: 130%;
+              padding-top: 45px;
+              font-weight: 500;
+
+              margin-bottom: 20px;
+            "
+          >
+            handsome, healthy you. <br />
+            #hellohims
+          </p>
+          <mj-social mode="horizontal">
+            <mj-social-element align="left">
+              <a
+                href="https://www.facebook.com/login/?next=https%3A%2F%2Fwww.facebook.com%2Fwearehims"
+                style="text-decoration: none"
+              >
+                <img
+                  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5bb1bb764939bf281575cce6/original.png?1538374518"
+                  width="48px"
+                />
+              </a>
+            </mj-social-element>
+            <mj-social-element>
+              <a
+                href="https://twitter.com/wearehims"
+                style="text-decoration: none; margin: 0 30px"
+              >
+                <img
+                  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5bb1bb762827457b2a2ecbe5/original.png?1538374518"
+                  width="48px"
+                />
+              </a>
+            </mj-social-element>
+            <mj-social-element>
+              <a
+                href="https://www.instagram.com/"
+                style="text-decoration: none"
+              >
+                <img
+                  src="https://appboy-images.com/appboy/communication/assets/image_assets/images/5bb1bb762827457b702ecbc2/original.png?1538374518"
+                  width="48px"
+                />
+              </a>
+            </mj-social-element>
+          </mj-social>
+          <p
+            style="
+              color: #9d9d9d;
+              font-size: 10px;
+              line-height: 12px;
+              padding-top: 20px;
+              padding-bottom: 20px;
+            "
+          >
+            © 2020 Hims, Inc. <br />
+            340 Bryant Street | Suite 300 | San Francisco CA 94107 <br />
+            Hims:
+            <a
+              href="https://www.forhims.com/privacy-policy"
+              style="color: #9d9d9d"
+              >privacy policy</a
+            >
+            |
+            <a
+              href="https://www.forhims.com/terms-and-conditions"
+              style="color: #9d9d9d"
+              >terms of service</a
+            >
+            <br />
+            <a href="https://www.forhims.com/" style="color: #9d9d9d">
+              unsubscribe
+            </a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
